@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-Some information about me. I currently live in North Yorkshire and are developing new vision AI products for the home security market for a nationwide security company. Before this I ran a IT service company specialising in cyber security and software devlopment.  
+Here's some information about me. I currently live in North Yorkshire and are developing new vision AI products for the home security market for a nationwide security company. Before this I ran a IT service company specialising in cyber security and software devlopment.  
 
 
 ### More Information
