@@ -12,7 +12,7 @@ Before this I ran a IT service company specialising in cyber security and softwa
 ### More Information
 My passion for IT properly started when I was around 4 years old. I quickly was introduced by my grandparents (at a very young age) to alot of the techonlogical landscape at the time, as they realised early on that technology (especially computing) was going to be the key to my success for whatever career path I would take in the future. 
 
-Halfway through graduating primary school, they bought me my first PC (an IBM clone PC) and afforded me the opportunity to attend computing courses. This is where I started to devlop basic skills and found great enjoyment by practicing them at home. I attended these courses and progressing to advanced programming courses for adults by the end of my primary education.
+Halfway through graduating primary school, they bought me my first PC (an IBM clone PC) and afforded me the opportunity to attend basic computer courses for kids. This is where I started to devlop basic skills and found great enjoyment by practicing them at home. I attended these courses every weekend and by the end of primary school I was attending beginners programming courses for adults.
 
 By the time, I had entered secondary school and I had mastered all of the Office products of the day and knew my way around Windows 3.x and 9x OS's. I was also at that this time teaching my teachers at school how to do things in class and became my family and family friends "go to" system admin, at this time. 
 
