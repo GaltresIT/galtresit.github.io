@@ -1,6 +1,7 @@
 ---
 published: true
 ---
-## A New Post
+## First Post 
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+I will be posting more content about myself and my work here soon. Website is under construction.
+
